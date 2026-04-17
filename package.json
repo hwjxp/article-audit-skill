@@ -1,0 +1,13 @@
+{
+  "name": "article-audit-skill",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Helper scripts for the article-audit Codex skill.",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.59.1"
+  },
+  "scripts": {
+    "capture": "node article-audit/scripts/capture_article.js"
+  }
+}
