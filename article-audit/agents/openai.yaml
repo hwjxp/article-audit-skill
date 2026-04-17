@@ -1,0 +1,4 @@
+interface:
+  display_name: "Article Audit"
+  short_description: "Extract, OCR, and audit article text and visuals."
+  default_prompt: "Use $article-audit to extract an article, run OCR on its visuals, and audit text-image consistency and logic."
